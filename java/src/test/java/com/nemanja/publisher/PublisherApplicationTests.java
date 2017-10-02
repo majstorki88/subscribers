@@ -12,7 +12,9 @@ public class PublisherApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+
 }
+
 	/**public class PubSubTests
 		{
 			private readonly IPubSub<int> _pubSub;
@@ -253,3 +255,4 @@ public class PublisherApplicationTests {
 	}
 
 }
+*////
